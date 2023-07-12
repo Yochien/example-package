@@ -1,0 +1,2 @@
+def falsehood():
+    return False
